@@ -1,0 +1,23 @@
+.container{
+    margin-top: 5%;
+}
+
+#txtarea{
+    width: 80%;
+    height: 100px;
+    resize: none;
+    border: 1px solid #DDD;
+}
+
+div#tagContainer{
+    position:absolute; 
+    display:none;
+    height: 200px;
+    width: 300px;
+    overflow-y: auto;
+    z-index: 9;
+}
+
+.pointer{
+    cursor: pointer;
+}
