@@ -1,6 +1,8 @@
 # quick-suggestions
-@mention like feature using Javascript and Jquery
+@mention like feature using Javascript and Jquery\
 
+Below is a link to Codepen\
+https://codepen.io/ashwin1014/pen/KxXOGQ\
 
 #References \
 https://codepen.io/neoux/pen/OVzMor \
